@@ -16,4 +16,4 @@ Python tool for automated downloading and organization of NASA GPM precipitation
 Analyzed 31 years of ERA5 climate data using trend, correlation, FFT, and spectral analysis techniques.
 
 ### Reach Me
-🔗 [LinkedIn](https://linkedin.com/in/eylulhuner)
+🔗 [LinkedIn](https://www.linkedin.com/in/vasfiye-eylul-huner/)
