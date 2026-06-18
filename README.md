@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Eylül
 
-<!--
-**eylulhuner/eylulhuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student @ Politecnico di Torino
 
-Here are some ideas to get you started:
+Passionate about Data Analytics, Machine Learning, and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+Python • C • SQL (MySQL, PostgreSQL) • MATLAB • Git/GitHub
+
+### Featured Projects
+
+🔹 NASA GPM Data Download Automation with Python  
+Python tool for automated downloading and organization of NASA GPM precipitation datasets.
+
+🔹 Climate Time Series Analysis using MATLAB  
+Analyzed 31 years of ERA5 climate data using trend, correlation, FFT, and spectral analysis techniques.
+
+### Reach Me
+🔗 [LinkedIn](https://linkedin.com/in/eylulhuner)
